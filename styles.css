@@ -16,6 +16,33 @@ body{
                 }
             }
 
+
+
+a:link{
+    color: #51321b;
+}
+
+a:visited{
+    color: #51321b;
+}
+
+a:hover{
+    color: #51321b;
+    font-weight: bold;
+}
+
+#navbar{
+    overflow: auto;
+    background-color: #fdeed9;
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+    margin: 10px;
+    font-size: large;
+    color: #51321b;
+    border: medium dashed black;
+}
+
 #yo{
     border: thin solid 51321b;
     padding: 20px;
@@ -98,4 +125,5 @@ h4{
 #motto{
     font-family: 'Jersey 10';
 }
+
 
